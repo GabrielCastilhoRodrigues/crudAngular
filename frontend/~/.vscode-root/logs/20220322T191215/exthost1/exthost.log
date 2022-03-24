@@ -1,0 +1,212 @@
+[2022-03-22 19:12:26.165] [exthost] [info] Extension host with pid 2656 started
+[2022-03-22 19:12:26.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-22 19:12:26.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-22 19:12:26.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-22 19:12:27.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-22 19:12:27.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-22 19:12:27.449] [exthost] [info] Eager extensions activated
+[2022-03-22 19:12:27.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 19:12:27.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 19:12:37.006] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-22 19:12:37.021] [exthost] [info] Extension host with pid 2656 exiting with code 0
+[2022-03-22 19:12:39.646] [exthost] [info] Extension host with pid 2708 started
+[2022-03-22 19:12:39.646] [exthost] [info] Skipping acquiring lock for /home/gabriel/Público/crudAngular/frontend/~/.vscode-root/User/workspaceStorage/a21af65c0537e2e38195500f0811f2c1.
+[2022-03-22 19:12:39.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-22 19:12:39.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-22 19:12:39.754] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-22 19:12:39.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-22 19:12:39.843] [exthost] [info] Eager extensions activated
+[2022-03-22 19:12:39.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 19:12:39.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 19:12:45.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-03-22 19:13:05.111] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-22 19:13:40.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-22 19:13:40.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-22 19:13:40.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-22 19:16:19.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-22 19:16:23.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-03-22 19:28:01.310] [exthost] [info] ExtensionService#_doActivateExtension steoates.autoimport, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-03-22 20:01:16.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-22 20:01:17.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-03-23 23:23:36.744] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-23 23:23:36.788] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-03-23 23:23:36.866] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21) _typescript.applyCompletionCommand {"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"}
+[2022-03-23 23:23:36.866] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21) _typescript.applyCompletionCommand undefined
+[2022-03-23 23:27:17.660] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2022-03-23 23:27:17.660] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21)
+[2022-03-23 23:27:18.372] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21) _typescript.applyCompletionCommand {"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"}
+[2022-03-23 23:27:18.373] [exthost] [error] Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:503379)
+	at dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:497227)
+	at dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:496095)
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:495580)
+	at ChildProcess.emit (events.js:315:20)
+	at emit (internal/child_process.js:903:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21) _typescript.applyCompletionCommand undefined
+[2022-03-23 23:36:11.555] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-23 23:36:11.817] [exthost] [info] Extension host with pid 2708 exiting with code 0
+[2022-03-23 23:36:21.138] [exthost] [info] Extension host with pid 11513 started
+[2022-03-23 23:36:21.138] [exthost] [info] Skipping acquiring lock for /home/gabriel/Público/crudAngular/frontend/~/.vscode-root/User/workspaceStorage/e704cc069885679cead9df4d19e4f4ce.
+[2022-03-23 23:36:21.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-23 23:36:21.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-23 23:36:21.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-23 23:36:21.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-23 23:36:21.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-23 23:36:21.747] [exthost] [info] Eager extensions activated
+[2022-03-23 23:36:21.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:21.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:21.917] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:34.031] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-23 23:36:34.043] [exthost] [info] Extension host with pid 11513 exiting with code 0
+[2022-03-23 23:36:37.888] [exthost] [info] Extension host with pid 11565 started
+[2022-03-23 23:36:37.888] [exthost] [info] Skipping acquiring lock for /home/gabriel/Público/crudAngular/frontend/~/.vscode-root/User/workspaceStorage/a21af65c0537e2e38195500f0811f2c1.
+[2022-03-23 23:36:38.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-03-23 23:36:38.416] [exthost] [info] ExtensionService#_doActivateExtension steoates.autoimport, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-03-23 23:36:38.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-23 23:36:38.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-23 23:36:38.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-23 23:36:39.009] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-23 23:36:39.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-23 23:36:39.388] [exthost] [info] Eager extensions activated
+[2022-03-23 23:36:39.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:39.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:39.476] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-23 23:36:54.670] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-23 23:36:54.695] [exthost] [info] Extension host with pid 11565 exiting with code 0

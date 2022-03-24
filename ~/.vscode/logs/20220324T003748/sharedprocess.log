@@ -1,0 +1,17 @@
+[2022-03-24 00:38:03.341] [sharedprocess] [info] Starting worker process with pid 37567 (type: fileWatcher, window: 1).
+[2022-03-24 00:38:45.801] [sharedprocess] [info] Worker process with pid 37567 terminated normally (type: fileWatcher, window: 1).
+[2022-03-24 00:38:47.416] [sharedprocess] [info] Starting worker process with pid 37685 (type: fileWatcher, window: 1).
+[2022-03-24 01:33:20.039] [sharedprocess] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-03-24 01:33:20.071] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2022-03-24 01:33:22.271] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/gabriel/Público/crudAngular/~/.vscode/CachedExtensionVSIXs/github.vscode-pull-request-github-0.38.1
+[2022-03-24 01:33:22.668] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.d45fac02-cbf6-4e36-92a6-95c662cc45f0: github.vscode-pull-request-github
+[2022-03-24 01:33:22.739] [sharedprocess] [info] Renamed to /root/.vscode/extensions/github.vscode-pull-request-github-0.38.1
+[2022-03-24 01:33:22.740] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2022-03-24 01:33:22.747] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-03-24 01:42:23.911] [sharedprocess] [info] Getting Manifest... github.remotehub
+[2022-03-24 01:42:23.935] [sharedprocess] [info] Installing extension: github.remotehub
+[2022-03-24 01:42:25.572] [sharedprocess] [info] Downloaded extension: github.remotehub /home/gabriel/Público/crudAngular/~/.vscode/CachedExtensionVSIXs/github.remotehub-0.26.0
+[2022-03-24 01:42:25.717] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.5767cc82-c91d-4548-a56e-15c2d78ab02f: github.remotehub
+[2022-03-24 01:42:25.779] [sharedprocess] [info] Renamed to /root/.vscode/extensions/github.remotehub-0.26.0
+[2022-03-24 01:42:25.781] [sharedprocess] [info] Extracting completed. github.remotehub
+[2022-03-24 01:42:25.783] [sharedprocess] [info] Extension installed successfully: github.remotehub

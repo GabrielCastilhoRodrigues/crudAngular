@@ -1,0 +1,91 @@
+[2022-03-22 19:12:25.782] [renderer1] [error] ["Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”"]
+[2022-03-22 19:12:25.783] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-22 19:12:34.909] [renderer1] [error] Error while registering log channel file:///home/gabriel/P%C3%BAblico/crudAngular/frontend/~/.vscode-root/logs/20220322T191215/userDataSync.log Timed out while waiting for file to be created
+[2022-03-22 19:12:39.421] [renderer1] [error] ["Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”"]
+[2022-03-22 19:12:39.422] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-22 19:12:45.239] [renderer1] [warning] Error querying extensions gallery {}
+[2022-03-22 19:12:45.243] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.b.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:27625)
+[2022-03-22 19:12:45.244] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2022-03-23 23:23:36.899] [renderer1] [error] <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21): Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at f._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:30441)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-23 23:27:18.377] [renderer1] [error] <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21): Error: <semantic> TypeScript Server Error (4.6.2)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at getCompletionEntryCodeActionsAndSourceDisplay (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130386:22)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:130324:30)
+    at Object.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:161852:35)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173426:57
+    at Object.mapDefined (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:605:30)
+    at IpcIOSession.Session.getCompletionEntryDetails (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:173424:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:172246:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:88
+    at IpcIOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174035:28)
+    at IpcIOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174044:33)
+    at IpcIOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:174070:35)
+    at process.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:176705:31)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+	at f._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:30441)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-03-23 23:36:20.458] [renderer1] [error] ["Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”"]
+[2022-03-23 23:36:20.465] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-03-23 23:36:37.067] [renderer1] [error] ["Error: Transporte desconhecido ou sem suporte “disabled” para o endereço “disabled:”"]
+[2022-03-23 23:36:37.068] [renderer1] [warning] Settings Sync: Accounts are not initialized
