@@ -1,0 +1,10 @@
+[2022-03-24 19:15:04.905] [sharedprocess] [info] Starting worker process with pid 3763 (type: fileWatcher, window: 1).
+[2022-03-24 19:16:33.911] [sharedprocess] [info] Worker process with pid 3763 terminated normally (type: fileWatcher, window: 1).
+[2022-03-24 19:16:35.505] [sharedprocess] [info] Starting worker process with pid 3835 (type: fileWatcher, window: 1).
+[2022-03-24 19:17:09.754] [sharedprocess] [info] Getting Manifest... angular.ng-template
+[2022-03-24 19:17:09.765] [sharedprocess] [info] Installing extension: angular.ng-template
+[2022-03-24 19:17:27.630] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/gabriel/Público/crudAngular/frontend/~/.vscode/CachedExtensionVSIXs/angular.ng-template-13.3.0
+[2022-03-24 19:17:30.100] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.3c7e335b-91d9-4032-9dc6-ee2981ecdf54: angular.ng-template
+[2022-03-24 19:17:30.174] [sharedprocess] [info] Renamed to /root/.vscode/extensions/angular.ng-template-13.3.0
+[2022-03-24 19:17:30.180] [sharedprocess] [info] Extracting completed. angular.ng-template
+[2022-03-24 19:17:30.189] [sharedprocess] [info] Extension installed successfully: angular.ng-template
